@@ -17,8 +17,8 @@
         <h1 style="padding: 10px; font-size:20px">User information</h1>
         <tr>
             <th>Code</th>
-            <th>Lastname</th>
-            <th>Firstname</th>
+            <th>Last name</th>
+            <th>First name</th>
             <th>Age</th>
             <th>Sex</th>
         </tr>
